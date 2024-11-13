@@ -1,6 +1,6 @@
 class BankInterest(object):
 
-    #тестовое изменение кода для коммита
+    #OK
     def __init__(self, summ, period, perc):
         self.summ = summ
         self.period = period
