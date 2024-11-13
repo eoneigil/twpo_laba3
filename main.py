@@ -1,6 +1,6 @@
 class BankInterest(object):
 
-    #OK
+    #OK111
     def __init__(self, summ, period, perc):
         self.summ = summ
         self.period = period
