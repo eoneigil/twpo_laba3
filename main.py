@@ -1,4 +1,4 @@
-class BankInterest(object):
+class Calculate(object):
 
     #OK111
     def __init__(self, summ, period, perc):
