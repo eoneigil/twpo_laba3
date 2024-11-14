@@ -25,3 +25,7 @@ class BankInterest(object):
         mp = self.summ * ak
         total = mp * mp_cnt
         return round(mp, 2), round(total, 2)
+
+    def test_failure():
+        assert 1 == 0  # этот тест всегда провалится
+
