@@ -17,6 +17,7 @@ class TestCalculate(unittest.TestCase):
 
     # def test_failure(self):
     #     assert 1 == 0
+    #OKAY
 
 
 if __name__ == '__main__':
