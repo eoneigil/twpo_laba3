@@ -1,4 +1,4 @@
-name: Test Bank Interest
+name: testCalculate
 
 on:
   push:
