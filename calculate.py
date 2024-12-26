@@ -14,8 +14,7 @@ class TestCalculate(unittest.TestCase):
         arr, total = calc.diff_int()
         self.assertEqual(len(arr), 24)
         self.assertAlmostEqual(total, 110416.67, places=2)
-        assert 1 == 0
-
+        # assert 1 == 0
 
 if __name__ == '__main__':
     unittest.main()
