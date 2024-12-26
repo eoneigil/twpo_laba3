@@ -26,3 +26,5 @@ class Calculate(object):
         total = mp * mp_cnt
         return round(mp, 2), round(total, 2)
 
+    def error(self):
+        assert 1 == 0
